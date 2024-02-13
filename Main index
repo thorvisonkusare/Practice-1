@@ -1,0 +1,27 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Website</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <h1>Heading (h1)</h1>
+    <h2>Heading (h2)</h2>
+    <h3>Heading (h3)</h3>
+    <h4>Heading (h4)</h4>
+    <h5>Heading (h5)</h5>
+    <h6>Heading (h6)</h6>
+
+    <p>This is paragraph</p>
+    <p><mark>This is paragraph + highlight</mark></p>
+    <p><b>This is paragraph + bold</b></p>
+    <p><q>This is paragraph + quatation</q></p>
+    <p><i>This is paragraph + italic</i></p>
+
+    <span> This is  span</span>
+    <span> <em>This is  span</em></span>
+
+</body>
+<footer></footer>
+</html>
